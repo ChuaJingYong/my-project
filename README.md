@@ -25,7 +25,7 @@ I added this new line, time to pull me!
 - [ ] Contact the media
 
 ### This is a highlight session
-I need to highlight these ==very important words==.
+I need to highlight these ==very important words==
   
 ### This is a footnote
 Here's a sentence with a footnote. [^1]
