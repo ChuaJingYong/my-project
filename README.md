@@ -24,8 +24,11 @@ I added this new line, time to pull me!
 - [ ] Update the website
 - [ ] Contact the media
 
-
+### This is a highlight session
+	I need to highlight these ==very important words==.
+  
 ### This is a footnote
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
+
