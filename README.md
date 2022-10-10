@@ -11,7 +11,7 @@ I added this new line, time to pull me!
 
 
 ### This is a Fenced Code Block
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
